@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @polozkov
-- 👀 I’m interested in ... chess, checkers, other board games; mechanical and other puzzles
-- 🌱 I’m currently learning ... JavaScript, SVG
-- 
-- 📫 How to reach me ... 
-- https://www.facebook.com/profile.php?id=100012735878579
-- 
-- https://twitter.com/PolozkovSergey
-- 
-- https://vk.com/polozkov94
-- 
-<!---
-polozkov/polozkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Я Полозков Сергей Сергеевич. Занимаюсь разработкой механических головоломок, игрушек и логических игр. КМС по русским шашкам.
+
+Сотрудничаю с музеем головоломок
+http://puzzlemuseum.ru/
+
+Facebook
+https://www.facebook.com/profile.php?id=100012735878579
+
+ВКонтакте
+https://vk.com/polozkov94
+
+Telegram
+https://t.me/polozkov94
+
+YouTube-канал Сергей Полозков
+https://www.youtube.com/channel/UClX-UjsQAr46g3tpdL1__Jw
